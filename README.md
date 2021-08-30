@@ -10,5 +10,5 @@ Hola soy Tomas Domínguez tengo 21 años , estoy cursando la carrera de tecnicat
 - Mi color favorito es el rojo.
 - Soy hincha de River.
 - les dejo una foto de antes de la pandemia , no soy de sacarme fotos aclaro
-Yo (![20200409_214115 (2)](https://user-images.githubusercontent.com/71051930/131417556-3f629b65-6ffb-4696-804d-809b05124b5c.jpg)
+![20200409_214115 (2)](https://user-images.githubusercontent.com/71051930/131417556-3f629b65-6ffb-4696-804d-809b05124b5c.jpg)
 
